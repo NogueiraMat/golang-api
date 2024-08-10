@@ -1,2 +1,2 @@
 # anime-fullstack-app
-Projeto fullstack com uso de Golang, React e Postgres.
+Projeto de API com uso de Golang e Postgres.
